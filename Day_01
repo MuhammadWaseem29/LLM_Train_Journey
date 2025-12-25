@@ -1,1 +1,13 @@
 Today i start to gether info and Do some basic things which is require for LLM model Train
+
+I Make a dir 
+
+/Users/waseem/Desktop/llm_Training
+
+and Use Testing model 
+
+waseem@WaseemtekiMacBook-Pro llm_Training % ollama list
+NAME                ID              SIZE      MODIFIED   
+deepseek-r1:1.5b    e0979632db5a    1.1 GB    8 days ago  
+
+Lets start next 
